@@ -3,3 +3,5 @@ This is the middle of my project and the first,second and third  change I made.
 Here is a new line!
 
 And here is a line from the other branch
+
+I LOVE SOURCE CONTROL!!
