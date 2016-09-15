@@ -1,3 +1,5 @@
 This is the beginning of my project and the first and second  change I made.
 
 Here is a new line!
+
+And here is a line from the other branch
