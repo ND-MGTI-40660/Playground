@@ -1,4 +1,4 @@
-This is the beginning of my project and the first and second  change I made.
+This is the middle of my project and the first and second  change I made.
 
 Here is a new line!
 
